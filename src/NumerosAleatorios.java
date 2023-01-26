@@ -2,7 +2,7 @@ public class NumerosAleatorios {
 
   public static void main(String[] args) {
     
-    final int LONGITUD_NUMEROS = 20;
+    final int LONGITUD_NUMEROS = 30;
     final int MAXIMO = 1;
     final int MINIMO = 10;
     int[] numerosAleatorios = new int[LONGITUD_NUMEROS];
